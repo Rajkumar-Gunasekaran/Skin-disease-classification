@@ -19,3 +19,5 @@ The model classifies images into the following skin disease classes:
 5. **Melanocytic nevi (nv)**
 6. **Melanoma (mel)**
 7. **Pyogenic granulomas and hemorrhage (vasc)**
+
+The model is yet to be converted to a form such that it will be usable in an android application.
